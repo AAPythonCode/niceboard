@@ -1,0 +1,6 @@
+if SHIELD_NICEBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "Nice!Board"
+
+endif # SHIELD_NICEBOARD
